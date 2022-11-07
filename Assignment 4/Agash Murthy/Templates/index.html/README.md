@@ -5,6 +5,6 @@
     <title>FlaskBlog</title>
 </head>
 <body>
-   <h1>Hi welcome to flaskblog  by Eviganas</h1>
+   <h1>Hi welcome to flaskblog  by Akash</h1>
 </body>
 </html>
