@@ -1,1 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>FlaskBlog</title>
+</head>
+<body>
+   <h1>Hi welcome to flaskblog  by Aravindh</h1>
+</body>
+</html>
 
