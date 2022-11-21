@@ -29,7 +29,7 @@ spec:
     spec:
       containers:
         - name: ibm_project
-          image:https://github.com/IBM-EPBL/IBM-Project-3989-1658678612
+          image: https://github.com/IBM-EPBL/IBM-Project-48591-1660810012
           ports:
             - containerPort: 5000
       imagePullSecrets:
